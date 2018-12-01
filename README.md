@@ -1,10 +1,10 @@
 # DeepMonkey
-An agent that collects bananas, trained using the famous DQN algorithm
+An agent that collects bananas, trained using the famous DQN algorithm.
 
 ## Project details
-DeepMonkey is a reinforcement learning agent that aims to solve an environment
-called the Unity Banana environment. DeepMonkey accomplishes this by using an
-algorithm called Deep Q Learning. 
+DeepMonkey is a reinforcement learning agent that solves 
+the Unity Banana environment. DeepMonkey accomplishes this by using an
+algorithm called Deep Q Learning.
 
 ### Environment Description
 The DeepMonkey agent lives in a world where the following rules apply:
